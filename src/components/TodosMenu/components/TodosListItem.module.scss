@@ -1,0 +1,22 @@
+.TodosListItem {
+    margin: 15px 12px 16px 12px;
+}
+
+.checkbox {
+    display: inline-block;
+    border: solid 1px rgb(0, 0, 0);
+    width: 18px;
+}
+
+.icon {
+    width: 14px;
+    opacity: 0;
+}
+
+.checked {
+    opacity: 1;
+}
+
+.label {
+    margin-left: 12px;
+}
